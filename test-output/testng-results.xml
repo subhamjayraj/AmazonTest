@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19418" started-at="2015-02-21T13:05:44Z" finished-at="2015-02-21T13:06:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19418" started-at="2015-02-21T13:05:44Z" finished-at="2015-02-21T13:06:03Z">
+      <class name="com.amazon.regression.SignInOut">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.amazon.regression.SignInOut@78169680]" name="beforeTest" is-config="true" duration-ms="10570" started-at="2015-02-21T18:35:44Z" finished-at="2015-02-21T18:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.amazon.regression.SignInOut@78169680]" name="f" duration-ms="6707" started-at="2015-02-21T18:35:54Z" finished-at="2015-02-21T18:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.amazon.regression.SignInOut@78169680]" name="afterTest" is-config="true" duration-ms="2121" started-at="2015-02-21T18:36:01Z" finished-at="2015-02-21T18:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.amazon.regression.SignInOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
